@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Overpass API 本地部署文档 — 美国南部 222"
+title: "Overpass API 本地部署文档 — 美国南部"
 date: 2026-04-28 12:22:48 +0800
 tags: [OSM, Geofabrik, Overpass API, Docker]
 category: 技术分享
 ---
 
 
-# Overpass API 本地部署文档 — 美国南部 33
+# Overpass API 本地部署文档 — 美国南部
 
 > **目标**：使用 Docker 在本地搭建 Overpass API 服务，覆盖范围为美国南部（us-south）。
 > **数据来源**：Geofabrik OSM 地图数据
