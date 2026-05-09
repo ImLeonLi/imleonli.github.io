@@ -1,0 +1,1 @@
+pandoc .\2026-05-09-jekyll-chirpy-on-windows.md -o output.html --css=pandoc-style.css  --embed-resources --standalone
